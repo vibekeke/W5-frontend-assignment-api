@@ -184,7 +184,7 @@
   "mood_users": [
     {
       "id": 1,
-      "username": "Dean",
+      "username": "dean",
       "moodEntries": [
         [
           { "id": 5, "name": "Hopeful", "emoji": "🌄", "category": "Positive" },
